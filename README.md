@@ -1,3 +1,4 @@
+![epilepsyproject](https://user-images.githubusercontent.com/107636901/228495429-6888a11b-7f12-4985-91d0-f68ca0565b23.jpg)
 # Seizure detection using epilepsy
 
 
